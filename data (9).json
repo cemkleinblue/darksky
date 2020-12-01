@@ -1,0 +1,868 @@
+{
+    "ConfigVersion":8,
+    "ConfigUpdateMsg":"Updated Version 8.5\n\n* Fixed TM\/TNT ML10\/FB10\n* Added TM EasySURF\/FunALIW\n* Added TM FunSAGAD\n* Added Smart GigaSTORIES\n* Added Smart GigaGAMES\n\n* Keeping Your Connection Better!\n\nDarkSky VPN Team",
+    "Notice":"Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
+    "WarningMsg":"Please \"UPDATE\" Always!!! For Torrent Downloads, use only Torrent Servers!!! You are FORBIDDEN of the following: DDOS or any Hacking Activity, Spamming Activity, Torrent Access on Non-Torrent Servers!!! Caught Violators will be BANNED!!! Thank You!!! ",
+    "SquidPort":"8000",
+    "OpenVpnTCP":"110",
+    "OpenVpnUDP":"110",
+    "OpenVpnSSLPort":"1194",
+    "OpenVpnAddLine":"",
+    "OpenVpnCustomPort":"8080",
+    "Servers":[
+        {
+            "Name":"LV (Torrent) 01 prm",
+            "ServerHost":"premlvtr01.darkskyvpn.ph",
+            "WarnMsg":false,
+            "NewCert":false,
+            "Torrent":true
+        },
+        {
+            "Name":"LV (Torrent) 02 prm",
+            "ServerHost":"premlvtr02.darkskyvpn.ph",
+            "WarnMsg":false,
+            "NewCert":false,
+            "Torrent":true
+        },
+        {
+            "Name":"CA (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premca01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"CA (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premca02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"DE (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premde01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"DE (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premde02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"GB (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premgb01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"GB (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premgb02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"NL (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premnl01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"NL (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premnl02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"US (Netflix|Iflix|Iwant) 01 prm",
+            "ServerHost":"premusnf01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"US (Netflix|Iflix|Iwant) 02 prm",
+            "ServerHost":"premusnf02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premsg01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premsg02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 03 prm",
+            "ServerHost":"premsg03.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 04 prm",
+            "ServerHost":"premsg04.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 05 prm",
+            "ServerHost":"premsg05.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 06 prm",
+            "ServerHost":"premsg06.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 07 prm",
+            "ServerHost":"premsg07.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 08 prm",
+            "ServerHost":"premsg08.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 09 prm",
+            "ServerHost":"premsg09.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 10 prm",
+            "ServerHost":"premsg10.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 11 prm",
+            "ServerHost":"premsg11.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 12 prm",
+            "ServerHost":"premsg12.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 13 prm",
+            "ServerHost":"premsg13.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 14 prm",
+            "ServerHost":"premsg14.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 15 prm",
+            "ServerHost":"premsg15.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"IN (Surf|Stream|DL|UL) 01 prm",
+            "ServerHost":"premin01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"IN (Surf|Stream|DL|UL) 02 prm",
+            "ServerHost":"premin02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"IN (Surf|Stream|DL|UL) 01 vip",
+            "ServerHost":"vipin01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"IN (Surf|Stream|DL|UL) 02 vip",
+            "ServerHost":"vipin02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"PH (Netflix|Iflix|Iwant) 01 vip",
+            "ServerHost":"vipphnf01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"PH (Netflix|Iflix|Iwant) 02 vip",
+            "ServerHost":"vipphnf02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"PH (Gaming) 01 vip",
+            "ServerHost":"vipph01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"PH (Gaming) 02 vip",
+            "ServerHost":"vipph02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 01 vip",
+            "ServerHost":"vipsg01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 02 vip",
+            "ServerHost":"vipsg02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 03 vip",
+            "ServerHost":"vipsg03.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 04 vip",
+            "ServerHost":"vipsg04.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 05 vip",
+            "ServerHost":"vipsg05.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 06 vip",
+            "ServerHost":"vipsg06.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 07 vip",
+            "ServerHost":"vipsg07.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 08 vip",
+            "ServerHost":"vipsg08.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 09 vip",
+            "ServerHost":"vipsg09.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 10 vip",
+            "ServerHost":"vipsg10.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"US (Netflix|Iflix|Iwant) 01 vip",
+            "ServerHost":"vipusnf01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"US (Netflix|Iflix|Iwant) 02 vip",
+            "ServerHost":"vipusnf02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"KR (Gaming) 01 prv",
+            "ServerHost":"privkr01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"KR (Gaming) 02 prv",
+            "ServerHost":"privkr01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"JP (Gaming) 01 prv",
+            "ServerHost":"privjp01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"JP (Gaming) 02 prv",
+            "ServerHost":"privjp02.darkskyvpn.ph",
+            "WarnMsg":false,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 01 prv",
+            "ServerHost":"privsg01.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 02 prv",
+            "ServerHost":"privsg02.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 03 prv",
+            "ServerHost":"privsg03.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 04 prv",
+            "ServerHost":"privsg04.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Surf|Stream|DL|UL) 05 prv",
+            "ServerHost":"privsg05.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 06 prv",
+            "ServerHost":"privsg06.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 07 prv",
+            "ServerHost":"privsg07.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 08 prv",
+            "ServerHost":"privsg08.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 09 prv",
+            "ServerHost":"privsg09.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (Gaming) 10 prv",
+            "ServerHost":"privsg10.darkskyvpn.ph",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        },
+        {
+            "Name":"SG (GTM No Load Server) prm",
+            "ServerHost":"139.162.56.174",
+            "WarnMsg":true,
+            "NewCert":false,
+            "Torrent":false
+        }
+    ],
+    "Networks":[
+        {
+            "Name":"All Networks [ UDP ]",
+            "Info":"All Network Sim UDP Tunnel",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"lJpSRlq3UhU5i7n6Hx\/wUw=="
+        },
+        {
+            "Name":"All Networks [ DIRECT - TCP ]",
+            "Info":"All Network Sim TCP Tunnel",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"lJpSRlq3UhU5i7n6Hx\/wUw=="
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA STORIES 1 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Stories, 2GB daily",
+            "FrontQuery":"NeVxdFeqP9bHmDqxT9+U\/6COZchH4BnipmNGaGCfK6E=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"NeVxdFeqP9bHmDqxT9+U\/xmoHlJwetLRuKnOxBaKZWg=",
+            "Sni":"NeVxdFeqP9bHmDqxT9+U\/xmoHlJwetLRuKnOxBaKZWg=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhfoi0YLnP+uDEmo+NvFCRBrBiEmLkdvamN0CEfG5hfGYV5hqeEK+I06kkrfYooLrLhT56cn28SwV3VDo1e5S7AD0zl9CQx2gP7lsnNKA1nROA8h5HBRSWukVnPItxibXATfsSi2taN+Ca9DfRc9kXJ5PTFCTnQtGYkGZ+YpBHJhjmk6FNtQjj5ZgFuLDssNNUu393pGIJtD4WFtPnL0hJKN"
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA STORIES 2 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Stories, 2GB daily",
+            "FrontQuery":"NM1j559L+VohdS\/67oxFbR19kQ6t+67saOr5Ern2R3g=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"NM1j559L+VohdS\/67oxFbcSkzv\/dJv2ulRtCN31rVGw=",
+            "Sni":"NM1j559L+VohdS\/67oxFbcSkzv\/dJv2ulRtCN31rVGw=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhcQpyPYgdEiZV0oZusmj1Iwrj\/tpigl4lMDlTcaPVI8SvUfEK3jAgHVbiL9BRX04QVqXvQV3eNuQfWuWsfi7TsuqPCAVAkeAZ5Za\/mwH3c9U3Qtbj\/bKsJ8tjscEN\/H+pEgyEgmL5p0DgJCZFuYyEHDQuaa9MeUKhYVG9Z7P+A9t0WssNAegeQN4SAgc7iQtAFcoXKNDaDCvR9UVf\/YoOLmz64qm7EFVWqmffK9YjR3VzHsXJA9w8B1UULLt+Yo404="
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA GAMES\/VIDEO 1 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Games\/Videos",
+            "FrontQuery":"hdOhucoAzMyOrgYtxwizarunlp9Ry2DAx+TJWdE3zNw=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"hdOhucoAzMyOrgYtxwizassuxc9EfEKvjPMNjuj36JA=",
+            "Sni":"hdOhucoAzMyOrgYtxwizassuxc9EfEKvjPMNjuj36JA=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheYwp\/nDzkD99qHTE1JK5DUkbwQELtfsP2wrEmkbkKd4aC5kR5ZqDs2eb3y+qPMehhWLToSWMyB\/BJtXAs2H6ukUyPX+tGKuuupeqdICArN3ALECigbmYiyY7xZMKWv6tlbPM\/\/XIanxFWFkZ4wWtuDiO\/eOtZmj695fW9g+CMzXA=="
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA GAMES\/VIDEO [ SSL ]",
+            "Info":"Smart\/TNT\/Sun Giga Games\/Videos",
+            "FrontQuery":"hdOhucoAzMyOrgYtxwizarunlp9Ry2DAx+TJWdE3zNw=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"hdOhucoAzMyOrgYtxwizassuxc9EfEKvjPMNjuj36JA=",
+            "Payload":"lJpSRlq3UhU5i7n6Hx\/wUw=="
+        },
+        {
+            "Name":"TNT\/TM ML10 [ AIO ]",
+            "Info":"TNT\/TM ML10",
+            "FrontQuery":"6cR9wUojfyFPbhmxYaWx2Yo\/7Yg4uY69LsFsfn1CrHM=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Sni":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhczQ3BYD1znVExxyCKx\/nXn6RDdhxQE3pq+HxkIwicpZgn1numKaJBNp5QBuZaqk09e5rWU23ZmLhT0lUAXWPuZRnq7w3u\/oKx+qO0GsmlIXmJW4CHd1pFjuQsD20IpDNsCZj\/ejVVk+W1NXNbUxwY3sDTN+lBoMQyDT\/+2Y9Yhag=="
+        },
+        {
+            "Name":"Smart AT60 [ INJECT ]",
+            "Info":"For Smart AT60 Promo",
+            "FrontQuery":"\/A5p1jUsStcu9d4VI20prLebYAZABdFeW2SKmBjaC88=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"\/A5p1jUsStcu9d4VI20prERAZL7UlC6ujexdBrQGViU=",
+            "Sni":"\/A5p1jUsStcu9d4VI20prERAZL7UlC6ujexdBrQGViU=",
+            "Payload":"LwfheUtAy\/KCbMksac6Cb2uiR3HKgx7kTQFCGd6GyD4HURqdr45ipbXWBOefJTzTqSPidO4qaOptgMfC6O7UC6AxTdcWTAH\/e1tKaNeLFJFS+SNhqyao8sUJps07Vr5wcVzEPTRh\/PL5gzH4AggiuiTmE0AkkT223bjTSxWcif8pPeyBT0SGcZratzEWjzbdNDvP+ShIGBankUYjA2zAXA=="
+        },
+        {
+            "Name":"Smart AT\/SAKTO 1 [ INJECT ]",
+            "Info":"For AT\/GIGA\/SAKTO Promos",
+            "FrontQuery":"eap+nMVI4TE30ptPqKPVr1YTtqLcgyJY1nrLz2NH8TM=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"eap+nMVI4TE30ptPqKPVr+pz5InxWsNslk9qL1fkaH8=",
+            "Sni":"eap+nMVI4TE30ptPqKPVr+pz5InxWsNslk9qL1fkaH8=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheDESP6anf5sybuVUZZ616GMKlvh3MOYRftP1CC7gtI4Kktt4nbOq5WbdnZex+XyGrFgo8kNDm+JR7xaUMLKGtwkOaxXdbRqQnZZF4VCtfLZUaN1OAlNL19pLvB9Lkq3KVs9+hkvsL0h7pMZx9A0e8TTdDCCcXX0D9RLuRPOK3zvg=="
+        },
+        {
+            "Name":"Smart AT\/SAKTO 2 [ INJECT ]",
+            "Info":"For AT\/GIGA\/SAKTO Promos",
+            "FrontQuery":"tOhOUAWnFX3UiNyp9ttmoHeiDz0q\/w4BrSgJT\/pLn1s=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"tOhOUAWnFX3UiNyp9ttmoJwedrJnwKyShL3Mf7LBQoM=",
+            "Sni":"tOhOUAWnFX3UiNyp9ttmoJwedrJnwKyShL3Mf7LBQoM=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhfPs\/0PG+zW+OFgMcJidPfpYcqpV9vVOdRCUD4sjaS9uruvjjOaBppnC4h70sHpH+Zwo1aV4UzTFVHp043u9c3SoHxIBdSggCdbEbN2922gxgOmeLe3wDzDYmc33JYKvskttS48bu8Jvt5kGPUCyxl4"
+        },
+        {
+            "Name":"Smart\/Sun GIGA VIDEO 1 [ INJECT ]",
+            "Info":"Smart\/TNT\/Sun Giga Video",
+            "FrontQuery":"KJ9wKjCWZZFvJPXHFvCJxg==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"DTkWhJC+I5qG+w5jcIR62g==",
+            "Sni":"DTkWhJC+I5qG+w5jcIR62g==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhc9TfjL\/OVs\/HggrACBIcGBt3a+uGALL3KOZCgeFJ90LTDuY7lxRudRnzIimX9KW7d1GEK2FkK14BH2wkPwFEyjMUuNJ\/X8GCLT1QsYJjiKWqgAQNrcR7dM66uAC3K3eqKlb08lvEgJV8meiFdDONxS"
+        },
+        {
+            "Name":"Smart\/Sun GIGA VIDEO 2 [ INJECT ]",
+            "Info":"Smart\/TNT\/Sun Giga Video",
+            "FrontQuery":"Dws\/rsRURrZD5CModkhcpJEU2gSNu+s\/OKTDyNl3yZ8=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"Dws\/rsRURrZD5CModkhcpEkQyVoic2ubvYVlaqY2X1c=",
+            "Sni":"Dws\/rsRURrZD5CModkhcpEkQyVoic2ubvYVlaqY2X1c=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhfg8JxXtHlwIPTQIJthUyClSv83ECeV6ootSP\/pl5ckmszcRrJpL+JpEreuxxgcce6Qt2rmibysLyoURA4CNndQu+zptqmmGGnSwW\/kqFqK\/A=="
+        },
+        {
+            "Name":"Smart\/Sun GIGA VIDEO [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Video",
+            "FrontQuery":"Dws\/rsRURrZD5CModkhcpJEU2gSNu+s\/OKTDyNl3yZ8=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"Dws\/rsRURrZD5CModkhcpEkQyVoic2ubvYVlaqY2X1c=",
+            "Sni":"Dws\/rsRURrZD5CModkhcpEkQyVoic2ubvYVlaqY2X1c=",
+            "Payload":"NVhKlo7uPfUDc09f4oHXMfMWVo57nUtvnxVOBpyl3bouuoRD3NfxrGNp6oNS5icVEWQ8gGptICmYBr1xxHHcJOiAWSnSA7k0Qkl5xHfeNM1X4pSeIpLFQ9jHLDa61RN9wQv73iS6atTW5ZXZhbjP8\/xdQpK9uXyde9sSXSJdiPE="
+        },
+        {
+            "Name":"Smart\/Sun GIGA GAMES 1 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Games",
+            "FrontQuery":"BqKit4ymferdAFaUIocKJQl265vMyem+scB7P+H30FQ=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"BqKit4ymferdAFaUIocKJSC+iR47\/nkGH0iaLUBkvzo=",
+            "Sni":"BqKit4ymferdAFaUIocKJSC+iR47\/nkGH0iaLUBkvzo=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhedVFTX\/QvoavVIGq80KpiRwzYgj8f4NcF1pDjVnV7yab+9RRA4ggevRZSSzyVJA6aMwtaHf+e4eQK5Cjncqg6AgcxfuAxJzE6VZLjt4tZC5LMXFLG9luZw5SjIdDjaQwPpg+js79Z1NkALRoBBI3vnav5LfnJ5BPJblTs16zBseg=="
+        },
+        {
+            "Name":"Smart\/Sun GIGA GAMES 2 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Games",
+            "FrontQuery":"x118anItc4YQcj\/0WlGajDGe5UBHYIMuZfXWt1EPahE=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"x118anItc4YQcj\/0WlGajMdyq58pGEolj0I\/WeddD0w=",
+            "Sni":"x118anItc4YQcj\/0WlGajMdyq58pGEolj0I\/WeddD0w=",
+            "Payload":"gJ6x9M6qz3C2sdazOpYX\/AJtgdcTECGf6IDgoXEhyEmATRzZPXqkETIsRb1MBB7ckd+v5PtH8APEcVPIZu8Wz6kE8Refi5tOVwdwdp7VIWYUTtz9znQCd1QG1w06Z5QWBE5+PUc+W7DO9puCF71CIzd9lKK2+AIW1+tIbLisPlI="
+        },
+        {
+            "Name":"Smart\/Sun GIGA GAMES 3 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Games",
+            "FrontQuery":"x118anItc4YQcj\/0WlGajCi29lOypDsfcLVXQSCMnKw=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"x118anItc4YQcj\/0WlGajP6mSHWAxPvGJEawTvrQblA=",
+            "Sni":"x118anItc4YQcj\/0WlGajP6mSHWAxPvGJEawTvrQblA=",
+            "Payload":"gJ6x9M6qz3C2sdazOpYX\/D+qwO0q0IHOJDxBONBxh4LXmf0rclP++Zh3umS5UIIg9RU0V48aTBIYSoUq96sxSjAV0xKIJFq0Q8C55WXLhzV\/i+7hww2uSE1bVlQVgBHJySzcrezV30Ts15ahCom5Om\/s\/q32j3ZboHQRHno180k="
+        },
+        {
+            "Name":"Smart\/Sun GIGA GAMES 4 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Games",
+            "FrontQuery":"6cR9wUojfyFPbhmxYaWx2Yo\/7Yg4uY69LsFsfn1CrHM=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Sni":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Payload":"1IGSmJRBYxZMMQqLqQkbVLz0Uoq8d52eBYoFr\/XElhEkrFDL+bGCVSmX3OigfDj3s\/A6cE+D73twGeqkbmnwo6ku8i\/w0QydF41upM1NqG7AiJuqFqXMaq+bMPO+THi\/YgBVT5hChYWR0tXr+64decjcXqV3twbU0NzXLSFryd09s73Sb3bLjN3+I9t1eMGZ"
+        },
+        {
+            "Name":"Sun TU\/CTC\/FLP 1 [ AIO ]",
+            "Info":"Sun TU or FLP w\/Non-Stop Chat",
+            "FrontQuery":"B3FJFAkLT03Hn0ePjjLR9NMXd0a\/oZyRnrRexEW2C7A=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"B3FJFAkLT03Hn0ePjjLR9JDiWCvZlNGDU4W1Cw73ic0=",
+            "Sni":"B3FJFAkLT03Hn0ePjjLR9JDiWCvZlNGDU4W1Cw73ic0=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhcFvzvqq5JPD6rVe4z3TxPZYwNptRzLGmF7kStKXANyOpTdefqOG4jCtPR+eFlaQudYn2GSxDfsc\/C3OJ\/mhuih05Z93BMpbtUAkdhHPr\/REcp6bWDsSZZv5XgXR7ame0kIo5w5m70lwemXmd2loyFcE10x+HkDfJsEOY2yfwa2Zg=="
+        },
+        {
+            "Name":"Sun TU\/CTC\/FLP 2 [ AIO ]",
+            "Info":"Sun TU or FLP w\/Non-Stop Chat",
+            "FrontQuery":"xleIGTHDGch\/h9h7JP9jOElDvVT2Jw8\/QAeUEtw6eKM=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"xleIGTHDGch\/h9h7JP9jOEP\/dEvC9dE6V61odLz7Kww=",
+            "Sni":"xleIGTHDGch\/h9h7JP9jOEP\/dEvC9dE6V61odLz7Kww=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhdGcuuWHwp9L79nHVOrpfwFEAYboqtsZ712Xhh3T0CyNYa84z08sMbVVTO9li9c53el2AV9SsR5dNXj0GRbiSTJlHOOwe6NdCPmEwMJtMHQ\/JL41Dx89TtM8UlEqTCP1i\/B0Xf5ELne7QjYqIVeeTOmXo0ciSv5Pe4r\/Q7+f\/\/BFQ=="
+        },
+        {
+            "Name":"Sun TU\/CTC\/FLP 3 [ AIO ]",
+            "Info":"Sun TU No Non-Stop Chat\/200MB",
+            "FrontQuery":"P3QLF1MuAnYECwPSj5jVJQ==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"NN1M6OvYGmA1g0d4tEo0UA==",
+            "Sni":"NN1M6OvYGmA1g0d4tEo0UA==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhf300obo93MO084JRzlEIO+TqGXQZfjX2fgnQGr0X48OYuwfcULHKdvmOpxPxzgfp7svCSuZmzESu8QgY4eQBK0WFpQNv5mxX9tBBNQhYVnxk0a5eP7yh4NC81I2sKrs6u9nnq7Hy6Q3DRnXtv1vyHK"
+        },
+        {
+            "Name":"Sun TU\/CTC\/FLP 4 [ AIO ]",
+            "Info":"Sun TU No Non-Stop Chat\/200MB",
+            "FrontQuery":"CLbifXvATRErfMgaNcUxaQ==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"R5E8FhIi51FrNpr+FwxKqw==",
+            "Sni":"R5E8FhIi51FrNpr+FwxKqw==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhf300obo93MO084JRzlEIO+qpLugW4nMVQx2zo\/J+ARvuwq6ea+3LDcAeiHQgzVb0kS7wtFpGVZL0s4P2n\/bliLDGT97KvkDfxSRexpEHA4ZMFM\/gsXrhMuO0C95iZrI9KDjAvcvLcefyICA6UGtz51"
+        },
+        {
+            "Name":"GTM All Promos [ INJECT ]",
+            "Info":"For Globe \/ TM All Promos",
+            "FrontQuery":"aG5cMaTYgs9heB2ULnXdS8ILXalAjIAV87qyiYGQbjY=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"aG5cMaTYgs9heB2ULnXdS9olcmHrYN7c1KG2e7yNZ\/I=",
+            "Sni":"aG5cMaTYgs9heB2ULnXdS9olcmHrYN7c1KG2e7yNZ\/I=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheH7+lpjI1IoKpWT1eSfn7ICqR0lluU+DrJE+lcNuKBYsWIkbJ5bj+6l3\/t15ihp8XazwUD3+9Ljar1GA+vL+tzobUdEraakSd7WVUe7Iibt1ntyUNPpsFi70dPy3InaH6h8tYIUoos4+Ar202mIF+2"
+        },
+        {
+            "Name":"GTM WNP+SNS or FB10 1 [ INJECT ]",
+            "Info":"GTM WNP+SNS, 1GB",
+            "FrontQuery":"KX2D0Q6IzPwhDw9hoxK0Rg==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"sKBAsmQw5RER4k6bq9bYWg==",
+            "Sni":"sKBAsmQw5RER4k6bq9bYWg==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhe409LLUS+ZLJs2r2N1URgJ2KrvNMJZ+B+jFx6bUBWkUsuH4ClgINP37TzYq1O7FGH4AWruiVloRPhEkzgaJSnl+c8sAd7K2PDj5b2aMt0IDTkqGxG3IW9KOaJmsKU\/nbUE8yTekr2Za30vPoyp5UYx"
+        },
+        {
+            "Name":"GTM WNP+SNS or FB10 2 [ INJECT ]",
+            "Info":"GTM WNP+SNS, 1GB",
+            "FrontQuery":"nu4k4aTKF46p1FSkN1guijHFPxD7YHTAEppFHsZB+v0=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"nu4k4aTKF46p1FSkN1guih6JO1209Ra85NYpGbhXzlg=",
+            "Sni":"nu4k4aTKF46p1FSkN1guih6JO1209Ra85NYpGbhXzlg=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhedZ00hVf2cSYOTN9Xbq8i02gOZWB7Dmr3qC69wE5zPz8j8iy\/gChM27\/H+Zkaz1ytp0XowpCoBxx4s0myfgzdVlQv9XMeGAnQs1zIxcns0SD\/paYQ8\/pPS42KKh0BoXhL7JNv+iXX0hxERNUCjL05F"
+        },
+        {
+            "Name":"GTM NO LOAD 1 [ INJECT ]",
+            "Info":"GTM - No Load \/ No Promo",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":true,
+            "CustomProxy":"server.01.gtm.darkskyvpn.ph:8060",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"61gtp+nTVGRp65ELi\/atddxKwaZzae\/gtJZqpApNcEI0zAF0rlQQa6vElz0tHofu"
+        },
+        {
+            "Name":"GTM NO LOAD 2 [ INJECT ]",
+            "Info":"GTM - No Load \/ No Promo",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":true,
+            "CustomProxy":"server.02.gtm.darkskyvpn.ph:8060",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"61gtp+nTVGRp65ELi\/atdR886kfFsZxMHBA7FQMLZ469X5iCh8Vp93HKPUWwXpkm"
+        },
+        {
+            "Name":"GTM NO LOAD 3 [ INJECT ]",
+            "Info":"GTM - No Load \/ No Promo",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":true,
+            "CustomProxy":"server.01.gtm.darkskyvpn.ph:8060",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"njHgobJsmpgMQtkwvdLu1wdiIeNekvIvwRpM16wNZpKsFboctJ93u71BVVHXRYS8C7dyUOtm+4xdE74lObhwV5XWSMif6iTeJxqS\/KRycS4="
+        },
+        {
+            "Name":"GTM NO LOAD 4 [ INJECT ]",
+            "Info":"GTM - No Load \/ No Promo",
+            "FrontQuery":"y3FI8FqLBoeuuNQPLNKZDA==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":true,
+            "CustomProxy":"server.01.gtm.darkskyvpn.ph:8060",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbxHwev8diPQYPm+iFcN4XsozIXM8DOfzvMN855WyHgxhhYAhqyk5Y1+iQD1hAwJb5g9dy5h9Mf8vK1SJ6kIE1wP0b++OFNvh5RBS1EmWOu0BnVrnYuzN9rMgY053K988qQ=="
+        },
+        {
+            "Name":"GTM NO LOAD 5 [ INJECT ]",
+            "Info":"GTM - No Load \/ No Promo",
+            "FrontQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":true,
+            "CustomProxy":"139.162.56.174:8060",
+            "Direct":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Sni":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbxHwev8diPQYPm+iFcN4XsozIXM8DOfzvMN855WyHgxhhYAhqyk5Y1+iQD1hAwJb5g9dy5h9Mf8vK1SJ6kIE1wP0b++OFNvh5RBS1EmWOu0BnVrnYuzN9rMgY053K988qQ=="
+        },
+        {
+            "Name":"TM ML10 [ AIO ]",
+            "Info":"For TM ML10 Promo, 3GB for 3 days",
+            "FrontQuery":"P4O55jwaeBmXf0+TbpYXTg==",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"3uaXF+obOXIX+GYFgThqwA==",
+            "Sni":"3uaXF+obOXIX+GYFgThqwA==",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhddDxtRFtFiOHQzYrpg6Bt3PyPti26gDkklm+yZlonLUUPsElQrqemqmG5bENRu9kSTcedBgg\/93Dq76S5X4WEE46x4lIs5lRl2AP7K1YdI8TA+ucYub8EwtJNIBB\/Ys5hdp+PV\/wCQGyeKCGTvmViO"
+        },
+        {
+            "Name":"TM FB10 1 [ AIO ]",
+            "Info":"TM FB10, 1GB for 3 days",
+            "FrontQuery":"yrlmjYaIXXSDsvx+ZkqH37kSC0nQn++DEb6LwtbAhBE\/VqSaOT8wGayCcGgThbzq",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"yrlmjYaIXXSDsvx+ZkqH37kSC0nQn++DEb6LwtbAhBEdSOUkxK\/XeiY4wDiZT40z",
+            "Sni":"yrlmjYaIXXSDsvx+ZkqH37kSC0nQn++DEb6LwtbAhBEdSOUkxK\/XeiY4wDiZT40z",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhcegbh7fSmBatqrgugoIXamSe8HPBwFmUQyJyIYQ+Z3WQWmQskwsm2KWBZZ20NRV2603y4GfG8mnUFMFAhiYVH0Yc27DyAmvCoZAso\/JcEsaO7PKddLuSXE3bCoGSXmJhjNfrq7mCElZrxmSUI77J8rgHr6W0R5RQjMrz0KQm7es37tHxGjpVYIto\/kPcOtoNNWk5u0m6rlLYCsZqS9\/08m1x5nUFKbwMRp8f05qSJEgIpfe2JElBw+OvyQcytEyUM="
+        },
+        {
+            "Name":"TM FB10 2 [ AIO ]",
+            "Info":"TM FB10, 1GB for 3 days",
+            "FrontQuery":"DkeghNDKRu3hd0byk5LglMjEajea6PX+t8Y\/7tK4rTqqoRfS3KFKbn60oN8oPs6h",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"DkeghNDKRu3hd0byk5LglEIPW11GTVm4nX9sdng1wc0=",
+            "Sni":"DkeghNDKRu3hd0byk5LglEIPW11GTVm4nX9sdng1wc0=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheK28o\/kIeOQqRsv7x+TzfJtXCOyczyOSo7qEdJizBqFN4Fx59W\/GshUO7l8II7sMdMB1nCdrgfDa6XWugGjKpu4tb30XdRy5D1UMcnhpxdzTvasMSnE8TwU99eQ8ChXw9CQVTni9RFxFogh7FHQp17PM1nfGEXSG12lazGt5hSaf3RDOxyF2hMSjuyT06UVlI="
+        },
+        {
+            "Name":"TM FB10 3 [ AIO ]",
+            "Info":"TM FB10, 1GB for 3 days",
+            "FrontQuery":"ioDtxu6f7vMQtSMWfqQLOb4R1faDHB4CXxIMm\/UjEyQ=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"ioDtxu6f7vMQtSMWfqQLOZGNMmWCrcMxq9+xvsivJqA=",
+            "Sni":"ioDtxu6f7vMQtSMWfqQLOZGNMmWCrcMxq9+xvsivJqA=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheDESP6anf5sybuVUZZ616GNmfxWglIuxt1WbFcON3izAM5+rLXfCltBnNpogZLO32R2BwbmA7W6L21FZTxNgWY86yzd8pdwE\/6+Dv1S983zFdMnuAVdfPJJ6KfZzq7lTV+pke5bCx\/LZakVKGJuTQ8"
+        },
+        {
+            "Name":"TM ML10\/EasySURF\/FunALIW [ AIO ]",
+            "Info":"TM ML10\/EasySURF\/FunALIW",
+            "FrontQuery":"6cR9wUojfyFPbhmxYaWx2Yo\/7Yg4uY69LsFsfn1CrHM=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Sni":"6cR9wUojfyFPbhmxYaWx2Vg+2gaDFliUfmxLXRVbrDY=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhczQ3BYD1znVExxyCKx\/nXn6RDdhxQE3pq+HxkIwicpZgn1numKaJBNp5QBuZaqk09e5rWU23ZmLhT0lUAXWPuZRnq7w3u\/oKx+qO0GsmlIXmJW4CHd1pFjuQsD20IpDNsCZj\/ejVVk+W1NXNbUxwY3sDTN+lBoMQyDT\/+2Y9Yhag=="
+        },
+        {
+            "Name":"TM FunSAGAD [ AIO ]",
+            "Info":"TM FunSAGAD, No Expiry, 400MB",
+            "FrontQuery":"aG5cMaTYgs9heB2ULnXdS8ILXalAjIAV87qyiYGQbjY=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"aG5cMaTYgs9heB2ULnXdS9olcmHrYN7c1KG2e7yNZ\/I=",
+            "Sni":"aG5cMaTYgs9heB2ULnXdS9olcmHrYN7c1KG2e7yNZ\/I=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhczQ3BYD1znVExxyCKx\/nXn6RDdhxQE3pq+HxkIwicpZgn1numKaJBNp5QBuZaqk09e5rWU23ZmLhT0lUAXWPuZRnq7w3u\/oKx+qO0GsmlIXmJW4CHd1pFjuQsD20IpDNsCZj\/ejVVk+W1NXNbUxwY3sDTN+lBoMQyDT\/+2Y9Yhag=="
+        },
+        {
+            "Name":"Globe GoSAKTO\/GoSURF [ AIO ]",
+            "Info":"Globe GoSAKTO\/GoSURF Promo",
+            "FrontQuery":"esu5yaekwoio464w5XAsFVbvRQPQ075HA2XBlp\/w4t4=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"esu5yaekwoio464w5XAsFcHRBKvFZ+U5W6Vx0Er5dTg=",
+            "Sni":"esu5yaekwoio464w5XAsFcHRBKvFZ+U5W6Vx0Er5dTg=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWheDESP6anf5sybuVUZZ616G6ioi1Ta8zMmWcPsW60Nhoq1A6yFdIyFYIbpK3NeV2w+UThG91il7+ZKK38VYcgVRtJGrKDq4ENIvWuv\/XPJknonfDoBqVaGJKGdBhdd09kqxI6Cz3N5VcWFFVf+6OybyGdHgocXSjqOCqhmoZt+TwaKWMbjcEI7RD163RKeHl7eiaCXSsO\/+gvkoeDq+FHOLOF77AI\/HEOEL3MvGTIfzv69yoG5kHT7goI8q3ICi52Y="
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA STORIES 3 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Stories, 2GB daily",
+            "FrontQuery":"\/ez\/S2gWof7BF1kKeWbgdeotnxsxzJLQljacbhxZgVQ=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"\/ez\/S2gWof7BF1kKeWbgdRPclljB7DTsl5zZjsBn5IE=",
+            "Sni":"\/ez\/S2gWof7BF1kKeWbgdRPclljB7DTsl5zZjsBn5IE=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhf0Odc1Nu6FUlK3+HTtpxvXNK4GcqBgSJbrpG\/jAp+QUDI+u17hZE4Y70EbezdAn76L6qx4hfl5XNZUDRJNaWqLkO\/ld7AKrJXhZzPyF8WtK\/6uJI+Q432VGxKOUuF0n6EK35Hq\/HkiiXBB5CPxGzKmPKj3F1c2fumUIZuY3S\/KZd757TNC3ooJblaYFyBuocjvBMcOFLbA3lVCHb2b\/RTtpu0ldiiB3E8gVshXKxN0sn+EYSkGio9JZoSJTcCtBK7xp8gDueieTSImTnZNz\/53"
+        },
+        {
+            "Name":"Smart\/TNT\/Sun GIGA STORIES 4 [ AIO ]",
+            "Info":"Smart\/TNT\/Sun Giga Stories, 2GB daily",
+            "FrontQuery":"IatzaTSI2CGnWTATnTnNaL3fBnjVCAvILQaAl3JJHHI=",
+            "BackQuery":"lJpSRlq3UhU5i7n6Hx\/wUw==",
+            "UseCustom":false,
+            "CustomProxy":"",
+            "Direct":"IatzaTSI2CGnWTATnTnNaBaFlE3WNYdfO2WB+QareOM=",
+            "Sni":"IatzaTSI2CGnWTATnTnNaBaFlE3WNYdfO2WB+QareOM=",
+            "Payload":"LwfheUtAy\/KCbMksac6CbwC+o2WBn\/52lKJqpdXrWhcS8csbiz5hXAJjcAPu9592QdI5xLZOr7+HbIRaxjWW\/+B0IF0tBFBGxTOKo4wgLxDLLGJJl5BGVkwZwZQoIi57KkBJveq2idDNdpojmkiTiP7vAbIQ6EwQ6OhfwiMDFWG3lDKflQK7X97Pr8bQb3jsEgQnfQmeit7yUCYZNthuJ+7+cFFkCfaFTUO55gFVMz4litKOOUWx12Lzawxlv0JB+xsNyJym55kIw\/BiYIDwGg=="
+        }
+    ]
+}

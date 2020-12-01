@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "updateMessage": "",
+  "payloads": [
+    {
+      "type": 0,
+      "name": "DIRECT",
+      "network": "",
+      "payload": "",
+      "timer": false,
+      "timerDefault": 0,
+      "payloadNote": "<span style='color: BLUE;'>SSH</span>",
+      "message": "<p>Make sure you have a Working Internet Connection(Ex. DLS or Data Connection). This is used if you want to Anonymous and protected when browsing the internet</p>",
+	  "hostPrefix": ""
+    },
+    {
+      "type": 2,
+      "name": "\uD83D\uDD25\uD83D\uDD25 NO LOAD/PROMO \uD83D\uDD25\uD83D\uDD25",
+      "network": "gtm",
+      "payload": "",
+      "timer": true,
+      "timerDefault": 55,
+      "payloadNote": "<span style='color: #0F6C91;'>INJECTOR</span>",
+      "message": "<p>GTM no load/promo, good for streaming and downloading.</p>",
+      "hostPrefix": "",
+      "smartConnect": 1
+    },
+	{
+      "type": 2,
+      "name": "ML10/FB10/FANSAGAD",
+      "network": "tm",
+      "payload": "POST http://clients3.google.com/ HTTP/1.1[crlf]Host: clients3.google.com[crlf]X-Online-Host: clients3.google.com[crlf][crlf]",
+      "timer": false,
+      "timerDefault": 0,
+      "payloadNote": "<span style='color: #0F6C91;'>INJECTOR</span>",
+      "message": "<p>Para mag-register, i-dial ang *143# for FREE at piliin ang FB/ML10. Pwede ring i-text ang sumusunod na keywords at i-send sa 8080:</p>",
+      "hostPrefix": ""
+    }
+  ],
+  "servers": [
+    {
+      "country": "SG",
+      "name": "PREMIUM SG #1",
+      "ipHostname": "139.180.185.171",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+    ,{
+      "country": "SG",
+      "name": "PREMIUM SG #2",
+      "ipHostname": "139.180.211.12",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #3",
+      "ipHostname": "207.148.70.11",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #4",
+      "ipHostname": "45.77.36.235",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #5",
+      "ipHostname": "139.59.237.222",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #6",
+      "ipHostname": "139.59.96.119",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #7",
+      "ipHostname": "139.59.233.73",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #8",
+      "ipHostname": "188.166.222.87",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #9",
+      "ipHostname": "178.128.107.63",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PREMIUM SG #10",
+      "ipHostname": "188.166.183.13",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #1",
+      "ipHostname": "45.76.191.106",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #2",
+      "ipHostname": "66.42.52.252",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #3",
+      "ipHostname": "45.77.35.46",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #4",
+      "ipHostname": "139.162.50.229",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #5",
+      "ipHostname": "172.104.54.138",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #6",
+      "ipHostname": "45.118.132.234",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #7",
+      "ipHostname": "139.162.7.20",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #8",
+      "ipHostname": "172.104.40.194",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #9",
+      "ipHostname": "139.162.47.130",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "VIP SG #10",
+      "ipHostname": "172.104.168.189",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #1",
+      "ipHostname": "149.28.136.208",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #2",
+      "ipHostname": "139.180.144.92",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #3",
+      "ipHostname": "45.77.168.162",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #4",
+      "ipHostname": "139.162.11.177",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #5",
+      "ipHostname": "139.162.17.206",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #6",
+      "ipHostname": "172.104.35.15",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #7",
+      "ipHostname": "172.104.187.100",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #8",
+      "ipHostname": "139.162.60.207",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #9",
+      "ipHostname": "139.162.17.124",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+	,{
+      "country": "SG",
+      "name": "PRIVATE SG #10",
+      "ipHostname": "172.104.183.200",
+      "proxyPort": 8010,
+      "sshPort": 442,
+      "udpResolver": "127.0.0.1:7300",
+      "udpForward": false,
+      "dnsResolver": "1.1.1.1",
+      "dnsForward": true
+    }
+  ],
+  "torrentApps":[
+    "intelligems.torrdroid",
+    "com.delphicoder.flud",
+    "com.ap.transmission.btc",
+    "idm.internet.download.manager.plus",
+    "com.napolovd.piratecat",
+    "com.foossi.bitcloud",
+    "org.ytssubtitles.pro",
+    "d.d.tdownloader",
+    "com.mobilityflow.tvp.prof",
+    "com.mobilityflow.tvp",
+    "com.squareup.moviedownloader",
+    "com.siberianwildapps.tapeer",
+    "org.epic.rrent",
+    "d.d.tdownloader",
+    "idm.internet.download.manager.adm.lite",
+    "org.viento.probreeze",
+    "fast.turrent.movie.file.hd.downloader.search",
+    "idm.internet.download.manager",
+    "idm.internet.download.manager.plus",
+    "com.jhp.a.tf",
+    "com.jhp.a.ts",
+    "com.shwifty.tex",
+    "org.itsasoftware.dast",
+    "com.tdo.showbox",
+    "com.nitroxenon.terrarium",
+    "com.popfreetime.roid",
+    "com.tdo.showbox",
+    "jackpal.androidterm",
+    "com.utorrent.client",
+    "com.pklbox.translatorspro",
+    "com.bittorrent.client",
+    "dp.ws.popcorntime",
+    "com.sunset.collage"
+  ]
+}
